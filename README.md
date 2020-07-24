@@ -21,12 +21,10 @@ A preprint of a journal article describing the [ERP CORE is available here](http
 
 ### Information about Sharing and Copyright
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY 4.0](https://user-images.githubusercontent.com/5137405/88381897-364e2e00-cd5c-11ea-863b-32313b82d674.png)
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 
