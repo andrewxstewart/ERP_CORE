@@ -22,13 +22,13 @@ A preprint of a journal article describing the [ERP CORE is available here](http
 ### Information about Sharing and Copyright
 
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution 4.0 License][cc-by].
 
 [![CC BY 4.0](https://user-images.githubusercontent.com/5137405/88381897-364e2e00-cd5c-11ea-863b-32313b82d674.png)
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 
-These resources are shared under the terms of a Creative Commons license (CC BY-SA 4.0). Briefly, you are free to copy, share, remix, transform, and build upon these resources in any way you desire. However, you are required to give appropriate credit, and if you share the resulting materials, you must distribute your contributions under the same CC BY-SA 4.0 license. Please credit us in any resulting publications, reports, or data distributions as: Kappenman, E., Farrens, J., Zhang, W., Stewart, A. X., & Luck, S. J. (2020). ERP CORE: An Open Resource for Human Event-Related Potential Research [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/4azqm
+These resources are shared under the terms of a Creative Commons license ([CC BY-SA 4.0](http://creativecommons.org/licenses/by/4.0/)). Briefly, you are free to copy, share, remix, transform, and build upon these resources in any way you desire. However, you are required to give appropriate credit, and if you share the resulting materials, you must distribute your contributions under the same CC BY-SA 4.0 license. Please credit us in any resulting publications, reports, or data distributions as: Kappenman, E., Farrens, J., Zhang, W., Stewart, A. X., & Luck, S. J. (2020). **ERP CORE: An Open Resource for Human Event-Related Potential Research** [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/4azqm
 
 ### Experiment Control Scripts and Installation Instructions
 The experiment control scripts were written in Presentation. Click Here to download the scripts and installation instructions. You must download Presentation to open and run these scripts. You can download a free trial version to see the scripts.
